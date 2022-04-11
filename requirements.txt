@@ -17,3 +17,4 @@ zalgo_text
 pynewtonmath
 bs4
 telegraph
+tg-bot==0.1.0

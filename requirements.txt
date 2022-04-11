@@ -1,5 +1,3 @@
-tg-bot
-python-telegram-bot
 future
 emoji
 requests

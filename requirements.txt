@@ -1,3 +1,5 @@
+tg-bot
+python-telegram-bot
 future
 emoji
 requests
@@ -17,4 +19,3 @@ zalgo_text
 pynewtonmath
 bs4
 telegraph
-tg-bot
